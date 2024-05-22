@@ -1,0 +1,9 @@
+
+aws sso login --profile root
+
+PROFILE: "AWS - SSO Michael.Greenly"
+
+https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-debian-11
+
+
+sudo certbot --apache -d metaspot.org -d dnd.metaspot.org -d champions.metaspot.org -d barrowmaze.metaspot.org
